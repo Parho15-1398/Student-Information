@@ -1,0 +1,2 @@
+# Student-Information
+I complete this project under my course teacher. I complete full project using only c language and use file for save the using time data and collected data save . By this way we can access any past data in any time and if we close the user interface after using this program the file will save all the data for next time use . I make this program for able to handle every user individual account privacy and their own profile individually 
